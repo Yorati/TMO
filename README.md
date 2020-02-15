@@ -21,4 +21,4 @@
 [Здесь](https://github.com/Yorati/)
 
 #
-Все условия и другие [материалы](https://github.com/ugapanyuk/ml_course/wiki/COURSE_TMO) по курсу
+Все условия и другие [материалы](https://github.com/ugapanyuk/ml_course_2020/wiki/COURSE_TMO) по курсу
