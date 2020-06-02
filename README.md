@@ -21,5 +21,5 @@
 [Здесь](https://github.com/Yorati/CWML)
 
 ##
-Отчеты по рубежным контролям и лабораторным работам распологаются [здесь](https://github.com/Yorati/TMO/tree/master/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B)
+Отчеты по рубежным контролям, лабораторным и курсовой работе распологаются [здесь](https://github.com/Yorati/TMO/tree/master/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B)
 #### Все условия и другие [материалы](https://github.com/ugapanyuk/ml_course_2020/wiki/COURSE_TMO) по курсу
