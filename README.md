@@ -16,7 +16,7 @@
 
 ### Рубежные контроли:
 * [РК №1. Технологии разведочного анализа и обработки данных](https://github.com/Yorati/TMO/tree/master/rk1)
-* [РК №2. Технологии использования и оценки моделей машинного обучения](https://github.com/Yorati/TMO/tree/master/rk1)
+* [РК №2. Технологии использования и оценки моделей машинного обучения](https://github.com/Yorati/TMO/tree/master/rk2)
 ### Курсовая работа:
 [Здесь](https://github.com/Yorati/CWML)
 
